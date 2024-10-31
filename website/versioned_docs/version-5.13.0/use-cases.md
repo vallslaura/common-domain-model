@@ -46,3 +46,11 @@ regulatory requirements.
 
 Please see [Pre-trade Processing](/docs/pre-trade-processing) for more details.
 
+## Standardized Functions
+Standardized Schedule Method for Initial Margin Calculation is a simplified 
+approach to determine the required initial margin for derivatives transactions, 
+it assigns predefined margin rates to different asset classes based on their risk 
+and volatility, facilitating regulatory compliance.
+
+Please see [Standardized Functions](/docs/standardized-functions) for more details.
+
